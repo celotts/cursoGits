@@ -1,1 +1,1 @@
-// Se activa
+// Se activa.
